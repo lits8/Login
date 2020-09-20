@@ -1,0 +1,35 @@
+body{
+    background: #4f4f4f;
+}
+.image-container{
+    background: url('man.png') center no-repeat;
+    background-size: cover;
+    height: 80vh;
+    width: 80vh;
+    margin-top: -40%;
+    margin-left: 50%;
+}
+.form-container{
+    background-color: #4f4f4f;
+    padding: 30px;
+    color: #000;
+    border-radius: 10px;
+    border-top-left-radius: 100px;
+    border-bottom-right-radius: 100px;
+    border: 2px solid white;
+    height: 90%;
+    width: 35%;
+    margin-top: 5%;
+    margin-left: 10%;
+    font-family: 'Poppins';
+}
+.form-check{
+    font-size: 15px;
+    margin-left: -5%;
+    margin-top: 5%;
+    text-transform: initial;
+}
+.log-in{
+    font-size: 50px;
+    color: white;
+}
